@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloGit", "HelloGit\HelloGit.csproj", "{A8655B4F-A403-47FD-BB49-4780D24FB865}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintNumbers", "PrintNumbers\PrintNumbers.csproj", "{B77B770F-5B37-4D46-B75E-55D1AF309CDA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A8655B4F-A403-47FD-BB49-4780D24FB865}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8655B4F-A403-47FD-BB49-4780D24FB865}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8655B4F-A403-47FD-BB49-4780D24FB865}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B77B770F-5B37-4D46-B75E-55D1AF309CDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B77B770F-5B37-4D46-B75E-55D1AF309CDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B77B770F-5B37-4D46-B75E-55D1AF309CDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B77B770F-5B37-4D46-B75E-55D1AF309CDA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
